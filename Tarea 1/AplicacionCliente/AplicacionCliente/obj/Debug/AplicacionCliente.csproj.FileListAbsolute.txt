@@ -1,0 +1,6 @@
+c:\users\grupo\documents\visual studio 2012\Projects\AplicacionCliente\AplicacionCliente\bin\Debug\AplicacionCliente.exe.config
+c:\users\grupo\documents\visual studio 2012\Projects\AplicacionCliente\AplicacionCliente\bin\Debug\AplicacionCliente.exe
+c:\users\grupo\documents\visual studio 2012\Projects\AplicacionCliente\AplicacionCliente\bin\Debug\AplicacionCliente.pdb
+c:\users\grupo\documents\visual studio 2012\Projects\AplicacionCliente\AplicacionCliente\obj\Debug\AplicacionCliente.exe
+c:\users\grupo\documents\visual studio 2012\Projects\AplicacionCliente\AplicacionCliente\obj\Debug\AplicacionCliente.pdb
+c:\users\grupo\documents\visual studio 2012\Projects\AplicacionCliente\AplicacionCliente\obj\Debug\AplicacionCliente.csprojResolveAssemblyReference.cache

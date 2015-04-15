@@ -1,0 +1,6 @@
+c:\users\grupo\documents\visual studio 2012\Projects\AplicacionServidor\AplicacionServidor\bin\Debug\AplicacionServidor.exe.config
+c:\users\grupo\documents\visual studio 2012\Projects\AplicacionServidor\AplicacionServidor\bin\Debug\AplicacionServidor.exe
+c:\users\grupo\documents\visual studio 2012\Projects\AplicacionServidor\AplicacionServidor\bin\Debug\AplicacionServidor.pdb
+c:\users\grupo\documents\visual studio 2012\Projects\AplicacionServidor\AplicacionServidor\obj\Debug\AplicacionServidor.csprojResolveAssemblyReference.cache
+c:\users\grupo\documents\visual studio 2012\Projects\AplicacionServidor\AplicacionServidor\obj\Debug\AplicacionServidor.exe
+c:\users\grupo\documents\visual studio 2012\Projects\AplicacionServidor\AplicacionServidor\obj\Debug\AplicacionServidor.pdb
